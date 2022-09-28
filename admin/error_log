@@ -1,0 +1,13 @@
+[17-Apr-2022 04:34:26 UTC] PHP Notice:  Undefined variable: id in /home/vhnvghst/public_html/website_mvc4/admin/customer.php on line 29
+[18-Apr-2022 12:43:50 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[18-Apr-2022 12:45:46 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[18-Apr-2022 12:52:49 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[18-Apr-2022 12:55:01 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 02:56:04 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 03:22:51 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 03:23:24 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 03:32:24 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 04:03:14 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 04:15:18 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 04:48:18 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47
+[19-Apr-2022 05:00:08 UTC] PHP Notice:  Undefined variable: status in /home/vhnvghst/public_html/website_mvc4/classes/blog.php on line 47

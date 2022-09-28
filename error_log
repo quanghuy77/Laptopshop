@@ -1,0 +1,119 @@
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 16:41:49 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 16:41:51 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 16:42:57 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'https://free01.123host.vn:2083/' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 16:42:58 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[13-Apr-2022 23:52:33 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:33 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:33 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:33 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 23:52:34 Asia/Ho_Chi_Minh] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 23:52:51 Asia/Ho_Chi_Minh] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 23:52:53 Asia/Ho_Chi_Minh] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/vhnvghst/public_html/website_mvc4/inc/header.php on line 15
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 24
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 35
+[13-Apr-2022 23:52:54 Asia/Ho_Chi_Minh] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc4/lib/database.php on line 36
+[15-Apr-2022 14:12:49 UTC] PHP Notice:  Undefined variable: id in /home/vhnvghst/public_html/website_mvc4/details.php on line 40
+[19-Apr-2022 03:14:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vhnvghst/public_html/website_mvc4/inc/header.php:138) in /home/vhnvghst/public_html/website_mvc4/order.php on line 9
+[19-Apr-2022 03:14:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vhnvghst/public_html/website_mvc4/inc/header.php:138) in /home/vhnvghst/public_html/website_mvc4/order.php on line 9
+[19-Apr-2022 03:14:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vhnvghst/public_html/website_mvc4/inc/header.php:138) in /home/vhnvghst/public_html/website_mvc4/order.php on line 9
+[19-Apr-2022 03:14:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vhnvghst/public_html/website_mvc4/inc/header.php:138) in /home/vhnvghst/public_html/website_mvc4/order.php on line 9
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 24
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 30
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 35
+[19-Apr-2022 12:07:39 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/vhnvghst/public_html/website_mvc5/lib/database.php on line 36
